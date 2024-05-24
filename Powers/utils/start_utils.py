@@ -1,4 +1,4 @@
-from html import escape
+okfrom html import escape
 from secrets import choice
 from traceback import format_exc
 
@@ -61,7 +61,7 @@ async def gen_start_kb(q: Message or CallbackQuery):
             [
                 (
                     "🗃️ Source Code",
-                    "https://github.com/Gojo-Bots/Gojo_Satoru",
+                    "https://t.me/GAURAV_BOTS",
                     "url",
                 ),
                 (
@@ -73,7 +73,7 @@ async def gen_start_kb(q: Message or CallbackQuery):
             [
                 (
                     "Essential",
-                    "https://t.me/+PcVYvdzNt4E1YjM1",
+                    "https://t.me/+ayIEynnK4mJlMjUx",
                     "url",
                 ),
                 (
